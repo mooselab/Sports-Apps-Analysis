@@ -76,3 +76,15 @@ To understand the categories of sports apps and classify them, we are manually a
 
 - > Data collection and extraction methods are given in the section `Data Collection` above, the final results considered for our studies are given [here]() in the the folder `All_apps_ids_reviws_metadata.zip`. The dataset are protected by password, and the password are mentioned in our published [paper](). 
 Moreover, the sampled data and the mmanual analysis can be found in the folder `Sample_data_with_manual_labelling.zip`
+
+**2.   RQ2: What are the topics raised by sports app users in their reviews?**
+Understanding the underlying trends of what the users have to tell to developers we applied topic modelling techniques. 
+
+- > You can use the preprocessing techniques and topic modeliing algorithm mentioned in the section `Topic Modelling` and can use the raw data from `All_apps_ids_reviws_metadata.zip`. To generate similar results make sure that you are using the similar hyper parameters that we used in the paper and similar preprocessing techniques.
+
+
+**3.   RQ3: What do users complain most about sports apps?**
+To analyse the sentiment of the sports applications through users reviews to find the user quality experience hindrances.
+
+- > The sentiment analysis technique that we used can be found in the section `analysis` however please note that in our analysis we used sentiment-rating mismatches to eliminate the inconsistent reviews that would create noise in the dataset.By focusing on understanding the complaining factors of the users and understanding the functionalities associated with them is to locate the issues associated with the studies application. The final subset of analysis with sentiment and reviews with the context of topic categorised and the functionality are given in the folder `Review_Topics_Function_Score_Sentiment.zip`
+
