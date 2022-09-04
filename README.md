@@ -71,4 +71,4 @@ Our code is based on the following packages and versions:
 
 For the libraries that are not listed here you can use the latest version.
 
-**1. RQ1: What are the characteristics of sports apps?**
+**1. >  RQ1: What are the characteristics of sports apps?**
