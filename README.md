@@ -74,5 +74,5 @@ For the libraries that are not listed here you can use the latest version.
 **1.   RQ1: What are the characteristics of sports apps?**
 To understand the categories of sports apps and classify them, we are manually analysing the sample set of data. Followed by creating a sample set of the data set and we categorize them based on three features, i.e., (1) Type of sports, (2) Main functionality, (3) Analytical/statistical algorithm used.
 
--> Data collection and extraction methods are given in the section `Data Collection` above, the final results considered for our studies are given [here]() in the the folder `All_apps_ids_reviws_metadata.zip`. The dataset are protected by password, and the password are mentioned in our published [paper](). 
+- > Data collection and extraction methods are given in the section `Data Collection` above, the final results considered for our studies are given [here]() in the the folder `All_apps_ids_reviws_metadata.zip`. The dataset are protected by password, and the password are mentioned in our published [paper](). 
 Moreover, the sampled data and the mmanual analysis can be found in the folder `Sample_data_with_manual_labelling.zip`
