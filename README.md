@@ -50,7 +50,7 @@ In this section we are adding some exporatory data analysis and the visuralisati
 2. [Generic EDA on labelled Data](https://datastudio.google.com/reporting/d40a3824-b681-4560-915f-c52d79676b52): It evaluates the sample set generated  based on the sample set distribution mentioned in the paper and exclution of sports games apps followed by  manually labelled regarding the sports type, functionality analysed the distribution of the metadata associated with them.
 3. [Sentiment Analysis](https://colab.research.google.com/drive/1xKugiEADKr_3CbbPbQKmxLdK_oaZDzLU?usp=sharing): Understanding the emotions associated with each reviews are one of the important motivations of our study. The libraries to extract the sentiment of user reviews and their comparison and Text Rating consistency analysis are given in the colab attached.
 
-### Replicating Results
+### Replication of Results
 
 
 
